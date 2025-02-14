@@ -14,6 +14,11 @@ BudgetBot is a personal finance tool that helps users categorize their expenses,
 - **Pie Chart Visualization**: View spending distribution in a pie chart format.
 - **Export Data**: Export categorized payment data to a CSV file for further analysis.
 
+Example of categorized payments:
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/ea77678c-fe76-4248-9697-cd17130a76b0" />
+
+
 ## Installation
 
 ### Prerequisites
